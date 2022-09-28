@@ -1,0 +1,5 @@
+1)Estruturado por hierarquia ou arvore, sua leitura é feita de cima para baixo, esquerda para direita.
+2)Permitiu que o registro esteja envolvido em variás associações
+3)Aumentar a independencia de dados nos sistemas gerenciadores de banco de dados, Permitir e Disponibilizar o uso de funções para armazenamento e
+recuperação de dados.
+4)Em BD sem muitos relacionamentos. Em Big Data.
