@@ -1,0 +1,229 @@
+           Abundância de fontes de informação
+Empresas tem mais dados do que podem gerenciar
+Pobreza de atenção: Para onde olhar?!
+Como focar a atenção de forma eficiente?
+Tomar decisões com base na informação certa
+Gerenciamento correto das informações
+Obtenção, processamento, armazenamento e distribuição
+Sistemas legado                        Dados = ativos valiosos
+Gerar ações e decisões
+Big Data
+Big Money?
+Big Mess?
+Dados no centro das arquiteturas de sistemas
+Auxiliar a tomada de decisões 
+Facilitar o aprendizado (novos conhecimentos)
+Qualidade x quantidade (mais não significa melhor                     Abundância de fontes de informação
+Empresas tem mais dados do que podem gerenciar
+Pobreza de atenção: Para onde olhar?!
+Como focar a atenção de forma eficiente?
+Tomar decisões com base na informação certa
+Gerenciamento correto das informações
+Obtenção, processamento, armazenamento e distribuição
+Sistemas legado                    Como se manter competitivo?
+Como manter sistemas legados?
+Como integrar sistemas?
+Como gerenciar tantos dados                                                       Quais as fontes de dados existentes e quais sistemas podem ser plugados a uma arquitetura integrada para big data?
+Como os problemas de negócios e operações da organização se enquadram nas estratégias para big data?
+Que objetivos da empresa se esperam ser concretizados utilizando-se big data?
+Como levar em consideração novos conjuntos e novas fontes de dados (por exemplo, internet das coisas)?
+Como uma arquitetura big data pode trazer o pensamento orientado a dados e análises para o centro do negócio?
+Quais são os componentes necessários para concretizar e operacionalizar soluções big data e de análise além de protótipo                                           Big Data é um conjunto de dados tão grande e complexo que um sistema computacional tradicional (hardware e software) é inadequado para lidar com eles, dentro de um período de tempo aceitável. Esse conjunto de dados, quando processado por algoritmos inteligentes, é capaz de encontrar situações onde é possível reduzir custos e aumentar receitas.
+Não cabe em um único HD por vezes precisa vários servidores, mesmo para uma única coleção (collection é “parecido” com uma tabela e documents são “parecidos” com registros da tabela).
+Tem muita redundância e não tem nenhum relacionamento nem restrição de integridade. Assim, não funciona o modelo relacional.
+Tecnicamente a afirmação que não consegue lidar em um tempo aceitável, significa que é um problema NP-Completo.
+Objetos, imagem, som, vídeo etc.                     A * X + B = tempo de processamento                 (ou memória)
+A * X^3 + B = tempo de processamento
+A * c^X + B = tempo de processamento
+A * log2(X) + B = tempo de processamento                    Modelo / Plano
+Deve contemplar:
+Gerenciamento dos dados
+Integração entre aplicações (APIs, protocolos)
+Segurança da informação
+Governança dos dados                                              Formatos:
+Estruturadas (BD relacionais)
+Semi-estruturados (JSON, XML,…)
+Não-estruturados (e-mails, mensagens, PDFs, …)
+Dados ambíguos
+Tipos, nomes, precisão, sistema métrico, ...
+Camadas de hierarquia
+Falta de MetaDados (Dados sobre os Dados)                 Dados: estruturados e não estruturados
+Volume
+Variedade
+Velocidade
+Variabilidade do fluxo
+Considerar diversas fontes, fazer correlações, interpretar, hierarquizar: complexidade objetiva e subjetiva que só o ser humano pode fazer                        Big data is the term for a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools or traditional data processing applications. 
+The challenges (desafios) include capture, curation (tratar), storage, search, sharing, transfer, analysis, and visualization. 
+The trend to larger data sets is due to the additional information derivable from analysis of a single large set of related data, as compared to separate smaller sets with the same total amount of data, allowing correlations to be found to "spot business trends, determine quality of research, prevent diseases, link legal citations, combat crime, and determine real-time roadway traffic conditions.”           Earthscope é o maior projeto de ciência. Rastrear a evolução geologica da América do Norte, este observatório grava dados 3.8 milhões de milhas quadradas, com 67 terabytes de dados. Analisa ocorrências sismicas. (http://www.msnbc.msn.com/id/44363598/ns/technology_and_science-future_of_technology/#.TmetOdQ--uI)
+                                         Dados Relacional (Tabelas/Transações/Legados)
+Dados de Texto (Web)
+Dados Semi-estruturados (XML) 
+Dados Gráficos
+Mídias Sociais
+Dados Streaming (só pode ser scaneado uma vez)
+Uma simples aplicação pode gerar ou coletar muitos tipos de dados
+Big Data Público (online, climático, financeiro etc.)            Dados são gerados rapidamente e precisam ser processados rapidamente
+Online Data Analytics (OLAP)
+Decisões tardias  perda de oportunidade
+Exemplos
+e-Promotions: Baseado na sua localização atual, seu histórico de compras, o que você gosta  enviar promoções no exato instante que você esteja passando perto da loja
+Healthcare monitoring (monitoramento de saúde): sensores monitorando o suas atividades e seu corpo  qualquer anormalidade requer uma reação imediata
+         O progresso e inovação não coletar dados
+Mas sim, a habilidade de gerenciar, analisar, sumarizar, visualizar e descobrir conhecimento dos dados coletados        OLTP: Online Transaction Processing (SGBD)
+OLAP: Online Analytical Processing (Data Warehousing)
+
+RTAP: Real-Time Analytics Processing (Big Data Arquitetura e Tecnologia)
+Dados importantes (core)
+Dados comuns (compartilhado entre sistemas)
+Segurança de acesso
+Grupos de usuários
+Aplicações
+Regras e processos
+ Dados importantes (core)
+Dados comuns (compartilhado entre sistemas)
+Segurança de acesso
+Grupos de usuários
+Aplicações
+Regras e processos
+Dados importantes (core)
+Dados comuns (compartilhado entre sistemas)
+Segurança de acesso
+Grupos de usuários
+Aplicações
+Regras e processos
+Dados importantes (core)
+Dados comuns (compartilhado entre sistemas)
+Segurança de acesso
+Grupos de usuários
+Aplicações
+Regras e processos
+MetaDados mudam ao longo do tempo!
+Fusões / aquisições
+Novos sistemas
+Integração de sistemas legados
+Recuperar backup
+BD arquivado
+Metadados são tão importantes quanto dados
+Manter rastreamento
+Informações históricas de tipos, tamanhos, restrições…
+Custo de comissionamento de novas aplicações;
+Curva de aprendizagem para novos empregados;
+Solução de problemas nas aplicações;
+Criação de novas aplicações de BI (Business Intelligence e Analytics);
+Auditoria de dados;
+Auditoria de conformidade (compliance).
+Obter: 
+Fontes de dados internas e externas
+Em tempo real ou em lote
+Analisar
+classificar, rotular e categorizar                    Processar
+Padronizar dados
+Metadados
+Semântica
+Distribuir
+Disponibilizar dados para consumo (aplicações analísticas e relatórios)
+Big Data é mais real-time do que as aplicações DW traditional
+Arquiteturas de DW (Exadata, Teradata) não são bem adaptadas para aplicações de Big Data
+Compartilhamento, processamento paralelo massivo, arquitetura escalável são necessárias para aplicações de Big Data
+Recursos de TI provided as a service
+Compute, Storage, Databases, Queues (consultas)
+Cloud economia e escalabilidade
+Storage mais barato, largura de banda & processamento multicore
+Data Centers distribuídos geograficamente
+Ofertas da Microsoft, Amazon, Google, …
+Custo & Gerenciamento
+Economia de escala, gerenciamento de “out-sourced”
+Tempo Reduzido de deployment (instalação/implantação)
+Montagem fácil, works “out of the box”
+Escalabilidade
+Provisionamento On demand (co-locate data and compute)
+Reliability (Confiabilidade)
+Massiva, Redundante, Recursos Compartilhados
+Sustentabilidade
+Hardware não proprietário                                                               Information-as-a-Service (IaaS): 
+componentes de processamento em lote e em tempo real
+repositório de conhecimento e serviços de informação
+manter e disponibilizar a informação atualizada para os usuários 
+Knowledge-as-a-Service (KaaS): 
+serviços de conhecimento dando suporte as atividades organizacionais tais como:
+descoberta de conhecimento
+colaboração
+aprendizagem
+tomada de decisão
+serviços de controle 
+conhecimento gerado é então salvo no repositório de conhecimento 
+Business Process-as-a-Service layer (BPaaS): 
+entrega os serviços para as aplicações, combinando-as  com processos de conhecimento intensivo do negócio 
+A natureza off-line impõe latência no sistema (em horas ou dias) antes que relatórios ou painéis possam ser visualizados com os dados mais recentes (?!). 
+500 bilhões de eventos/dia
+Pico: 8 milhões de eventos/s
+1.3 petabyte dados/dia (1.000.000 GB)
+Pico: 24 GB/s
+Uso intenso de aprendizagem de máquina (todas as camadas)
+320 milhões de usuários
+100 milhões ativos/dia
+500 milhões de tweets/dia
+6 mil/s
+Pico: 618.725 em 60 segundos (após final da copa 2014)
+Brasil x Alemanha: 35.6 milhões de tweets (pula essa…)
+Public Cloud: Computing infrastructure is hosted at the vendor’s premises. 
+Private Cloud: Computing architecture is dedicated to the customer and is not shared with other organisations. 
+Hybrid Cloud: Organisations host some critical, secure applications in private clouds. The not so critical applications are hosted in the public cloud
+Cloud bursting: the organisation uses its own infrastructure for normal usage, but cloud is used for peak loads.
+Community Cloud
+Infrastructure as a service (IaaS) 
+Offering hardware related services using the principles of cloud computing. These could include storage services (database or disk storage) or virtual servers. 
+Amazon EC2, Amazon S3, Rackspace Cloud Servers and Flexiscale.
+Platform as a Service (PaaS) 
+Offering a development platform on the cloud. 
+Google’s Application Engine, Microsofts Azure, Salesforce.com’s force.com .
+Software as a service (SaaS) 
+Including a complete software offering on the cloud. Users can access a software application hosted by the cloud vendor on pay-per-use basis. This is a well-established sector. 
+Salesforce.coms’ offering in the online Customer Relationship Management (CRM) space, Googles gmail and Microsofts hotmail, Google docs. 
+Storage-as-a-service
+Database-as-a-service
+Information-as-a-service
+Process-as-a-service
+Application-as-a-service
+Platform-as-a-service
+Integration-as-a-service
+Security-as-a-service
+Management/
+     Governance-as-a-service
+Testing-as-a-service
+Infrastructure-as-a-service                                                                 Service-Oriented Architecture  (SOA)
+Utility Computing (on demand)
+Virtualization (P2P Network)
+SAAS (Software As A Service)
+PAAS (Platform AS A Service)
+IAAS (Infrastructure AS A Servie)
+Web Services in Cloud
+Utility computing = Infrastructure as a Service (IaaS)
+Why buy machines when you can rent cycles?
+Examples: Amazon’s EC2, Rackspace
+Platform as a Service (PaaS)
+Give me nice API and take care of the maintenance, upgrades, …
+Example: Google App Engine
+Software as a Service (SaaS)
+Just run it for me!
+Example: Gmail, Salesforce
+Amazon Elastic Compute Cloud
+Google App Engine
+Microsoft Azure
+GoGrid
+AppNexus
+Elastic Compute Cloud – EC2 (IaaS)
+Simple Storage Service – S3 (IaaS)
+ Elastic Block Storage – EBS (IaaS)
+ SimpleDB (SDB) (PaaS)
+ Simple Queue Service – SQS (PaaS)
+CloudFront (S3 based Content Delivery Network – PaaS)
+ Consistent AWS Web Services API
+AppEngine:
+Higher-level functionality(e.g., automatic scaling)
+More restrictive(e.g., respond to URL only)
+Proprietary lock-in
+EC2/S3:
+Lower-level functionality
+More flexible
+Coarser billing model
